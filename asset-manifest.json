@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.744c6948.css",
-    "main.js": "/static/js/main.66a85e34.js",
+    "main.js": "/static/js/main.a8b6fe1e.js",
     "static/media/deu-logo.png": "/static/media/deu-logo.1f96ac51e237a26e9c69.png",
     "static/media/foundedapp-ss-1.jpg": "/static/media/foundedapp-ss-1.42b0841f4775081c7deb.jpg",
     "static/media/foundedapp-ss-11.jpg": "/static/media/foundedapp-ss-11.84d501f1d3a20476df6f.jpg",
@@ -16,8 +16,10 @@
     "static/media/foundedapp-ss-3.jpg": "/static/media/foundedapp-ss-3.2dd5c6039ab720a717be.jpg",
     "static/media/foundedapp-ss-5.jpg": "/static/media/foundedapp-ss-5.36dc3ee53d336b17d095.jpg",
     "static/media/foundedapp-ss-web.png": "/static/media/foundedapp-ss-web.3e282d6830f8b30cdf52.png",
+    "static/media/involatus-logo.png": "/static/media/involatus-logo.63484b2a990cd2c728d8.png",
     "static/media/freelance-logo.png": "/static/media/freelance-logo.2870d4c3709b57c60aba.png",
     "static/media/insider-logo.png": "/static/media/insider-logo.047247de5c011e2573a6.png",
+    "static/media/dbglobe-logo.png": "/static/media/dbglobe-logo.35c334e835cbf8e7aaf1.png",
     "static/media/dreamharvesters-logo.png": "/static/media/dreamharvesters-logo.df9dacece4c18bcf24fb.png",
     "static/media/foundedapp-logo.png": "/static/media/foundedapp-logo.36fcda4c0f964b1b15b8.png",
     "static/media/repositories.svg": "/static/media/repositories.52a631f44fdd2c8088f93b9c99a5db6a.svg",
@@ -29,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.744c6948.css",
-    "static/js/main.66a85e34.js"
+    "static/js/main.a8b6fe1e.js"
   ]
 }
