@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.744c6948.css",
-    "main.js": "/static/js/main.a8b6fe1e.js",
+    "main.js": "/static/js/main.94acfa20.js",
     "static/media/deu-logo.png": "/static/media/deu-logo.1f96ac51e237a26e9c69.png",
     "static/media/foundedapp-ss-1.jpg": "/static/media/foundedapp-ss-1.42b0841f4775081c7deb.jpg",
     "static/media/foundedapp-ss-11.jpg": "/static/media/foundedapp-ss-11.84d501f1d3a20476df6f.jpg",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.744c6948.css",
-    "static/js/main.a8b6fe1e.js"
+    "static/js/main.94acfa20.js"
   ]
 }
