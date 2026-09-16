@@ -1,0 +1,1 @@
+var e=()=>({scrollToSection:(e,t)=>{e?.preventDefault();let n=document.querySelector(t);if(!n)return;let r=document.querySelector(`.site-header`)?.getBoundingClientRect().height||0,i=window.scrollY+n.getBoundingClientRect().top-r-12;window.scrollTo({top:Math.max(0,i),behavior:`smooth`}),window.history.replaceState(null,``,t)}});export{e as t};

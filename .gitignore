@@ -1,0 +1,15 @@
+# Ignore all source and local files by default.
+*
+
+# Keep this allowlist versioned.
+!.gitignore
+
+# Keep GitHub Pages automation versioned.
+!.github/
+!.github/**
+
+# Publish only the generated GitHub Pages site.
+!.output/
+.output/*
+!.output/public/
+!.output/public/**

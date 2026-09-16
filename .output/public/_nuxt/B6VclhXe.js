@@ -1,0 +1,1 @@
+import{P as e,R as t,p as n}from"./BJyk4kCC.js";import{t as r}from"#entry";var i={};function a(r,i){return e(),n(`th`,null,[t(r.$slots,`default`)])}var o=Object.assign(r(i,[[`render`,a]]),{__name:`ProseTh`});export{o as default};
